@@ -1,0 +1,10 @@
+  git commit -m "added testing files"
+  git config --global user.name "Haseeb Khatti"
+  git config --global user.email "haseebkhatti236@gmai.com"
+  git commit -m "added testing files"
+  git status
+  rm testing.py
+  git status
+  git restore testing.py
+  git status
+  history
